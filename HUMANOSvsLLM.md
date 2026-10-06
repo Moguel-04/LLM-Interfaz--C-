@@ -4,6 +4,7 @@ Equipo simulado: Mando Gamer (reportes HID)
 Autora: Dafne Jael Moguel Benitez - No. de control: 22211616
 Instituto Tecnológico de Tijuana
 
+Proyecto: Whack-a-Mole
 
 ------------------------------------------------------------
 1. HUMANOS VS LLM: ¿QUIÉN CREA?
